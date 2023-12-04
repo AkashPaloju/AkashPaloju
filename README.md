@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋,This is Akash Paloju</h1>
-<h3 align="center">A passionate Web-developer and CSE Sophomore @IIITDM Jabalpur,India.</h3>
+<h3 align="center">A passionate Web-developer, Competitive Programming and DSA enthusiast and Computer Science Sophomore @IIITDM Jabalpur,India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpaloju&label=Profile%20views&color=0e75b6&style=flat" alt="akashpaloju" /> </p>
 
