@@ -4,11 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpaloju&label=Profile%20views&color=0e75b6&style=flat" alt="akashpaloju" /> </p>
 
 - 📫 reach me at **akashpaloju@gmail.com**
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akash_paloju" height="30" width="40" /> My Discord Handle : **akash_paloju**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-paloju-340795257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-paloju-340795257" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akash_paloju" height="30" width="40" /> akash_paloju
+<a href="https://codeforces.com/profile/akashpaloju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akashpaloju" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akash_paloju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash_paloju" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
